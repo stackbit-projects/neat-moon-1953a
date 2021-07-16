@@ -69,6 +69,12 @@ sections:
     background: gray
     features: []
     type: section_features
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    faq_items: []
+    type: section_faq
   - section_id: reviews
     type: section_reviews
     background: white
@@ -96,12 +102,6 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    faq_items: []
-    type: section_faq
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
